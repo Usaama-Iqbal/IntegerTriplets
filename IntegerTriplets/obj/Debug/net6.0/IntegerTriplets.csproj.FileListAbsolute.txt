@@ -1,0 +1,15 @@
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\bin\Debug\net6.0\IntegerTriplets.exe
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\bin\Debug\net6.0\IntegerTriplets.deps.json
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\bin\Debug\net6.0\IntegerTriplets.runtimeconfig.json
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\bin\Debug\net6.0\IntegerTriplets.dll
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\bin\Debug\net6.0\IntegerTriplets.pdb
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\IntegerTriplets.csproj.AssemblyReference.cache
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\IntegerTriplets.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\IntegerTriplets.AssemblyInfoInputs.cache
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\IntegerTriplets.AssemblyInfo.cs
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\IntegerTriplets.csproj.CoreCompileInputs.cache
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\IntegerTriplets.dll
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\refint\IntegerTriplets.dll
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\IntegerTriplets.pdb
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\IntegerTriplets.genruntimeconfig.cache
+E:\Project\LeetCode\IntegerTriplets\IntegerTriplets\obj\Debug\net6.0\ref\IntegerTriplets.dll
